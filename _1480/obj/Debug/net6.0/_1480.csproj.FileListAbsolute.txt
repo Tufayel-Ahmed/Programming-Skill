@@ -1,0 +1,15 @@
+G:\Programming-Skill\_1480\bin\Debug\net6.0\_1480.exe
+G:\Programming-Skill\_1480\bin\Debug\net6.0\_1480.deps.json
+G:\Programming-Skill\_1480\bin\Debug\net6.0\_1480.runtimeconfig.json
+G:\Programming-Skill\_1480\bin\Debug\net6.0\_1480.dll
+G:\Programming-Skill\_1480\bin\Debug\net6.0\_1480.pdb
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.csproj.AssemblyReference.cache
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.AssemblyInfoInputs.cache
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.AssemblyInfo.cs
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.dll
+G:\Programming-Skill\_1480\obj\Debug\net6.0\refint\_1480.dll
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.pdb
+G:\Programming-Skill\_1480\obj\Debug\net6.0\_1480.genruntimeconfig.cache
+G:\Programming-Skill\_1480\obj\Debug\net6.0\ref\_1480.dll
