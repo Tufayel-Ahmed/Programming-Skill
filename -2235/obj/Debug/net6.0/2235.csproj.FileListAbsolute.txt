@@ -1,0 +1,15 @@
+G:\Programming-Skill\2235\bin\Debug\net6.0\2235.exe
+G:\Programming-Skill\2235\bin\Debug\net6.0\2235.deps.json
+G:\Programming-Skill\2235\bin\Debug\net6.0\2235.runtimeconfig.json
+G:\Programming-Skill\2235\bin\Debug\net6.0\2235.dll
+G:\Programming-Skill\2235\bin\Debug\net6.0\2235.pdb
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.csproj.AssemblyReference.cache
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.AssemblyInfoInputs.cache
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.AssemblyInfo.cs
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.dll
+G:\Programming-Skill\2235\obj\Debug\net6.0\refint\2235.dll
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.pdb
+G:\Programming-Skill\2235\obj\Debug\net6.0\2235.genruntimeconfig.cache
+G:\Programming-Skill\2235\obj\Debug\net6.0\ref\2235.dll
