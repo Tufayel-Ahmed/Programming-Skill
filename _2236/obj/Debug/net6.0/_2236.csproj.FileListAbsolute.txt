@@ -1,0 +1,5 @@
+G:\Programming-Skill\_2236\obj\Debug\net6.0\_2236.csproj.AssemblyReference.cache
+G:\Programming-Skill\_2236\obj\Debug\net6.0\_2236.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\_2236\obj\Debug\net6.0\_2236.AssemblyInfoInputs.cache
+G:\Programming-Skill\_2236\obj\Debug\net6.0\_2236.AssemblyInfo.cs
+G:\Programming-Skill\_2236\obj\Debug\net6.0\_2236.csproj.CoreCompileInputs.cache
