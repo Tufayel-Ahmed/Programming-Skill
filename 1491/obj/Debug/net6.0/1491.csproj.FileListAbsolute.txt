@@ -1,0 +1,15 @@
+G:\Programming-Skill\1491\bin\Debug\net6.0\1491.exe
+G:\Programming-Skill\1491\bin\Debug\net6.0\1491.deps.json
+G:\Programming-Skill\1491\bin\Debug\net6.0\1491.runtimeconfig.json
+G:\Programming-Skill\1491\bin\Debug\net6.0\1491.dll
+G:\Programming-Skill\1491\bin\Debug\net6.0\1491.pdb
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.csproj.AssemblyReference.cache
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.AssemblyInfoInputs.cache
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.AssemblyInfo.cs
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.dll
+G:\Programming-Skill\1491\obj\Debug\net6.0\refint\1491.dll
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.pdb
+G:\Programming-Skill\1491\obj\Debug\net6.0\1491.genruntimeconfig.cache
+G:\Programming-Skill\1491\obj\Debug\net6.0\ref\1491.dll
