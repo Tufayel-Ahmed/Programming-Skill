@@ -1,0 +1,15 @@
+G:\Programming-Skill\1523\bin\Debug\net6.0\1523.exe
+G:\Programming-Skill\1523\bin\Debug\net6.0\1523.deps.json
+G:\Programming-Skill\1523\bin\Debug\net6.0\1523.runtimeconfig.json
+G:\Programming-Skill\1523\bin\Debug\net6.0\1523.dll
+G:\Programming-Skill\1523\bin\Debug\net6.0\1523.pdb
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.csproj.AssemblyReference.cache
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.AssemblyInfoInputs.cache
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.AssemblyInfo.cs
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.dll
+G:\Programming-Skill\1523\obj\Debug\net6.0\refint\1523.dll
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.pdb
+G:\Programming-Skill\1523\obj\Debug\net6.0\1523.genruntimeconfig.cache
+G:\Programming-Skill\1523\obj\Debug\net6.0\ref\1523.dll
