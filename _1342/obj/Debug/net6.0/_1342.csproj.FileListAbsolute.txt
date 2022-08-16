@@ -1,0 +1,15 @@
+G:\Programming-Skill\_1342\bin\Debug\net6.0\_1342.exe
+G:\Programming-Skill\_1342\bin\Debug\net6.0\_1342.deps.json
+G:\Programming-Skill\_1342\bin\Debug\net6.0\_1342.runtimeconfig.json
+G:\Programming-Skill\_1342\bin\Debug\net6.0\_1342.dll
+G:\Programming-Skill\_1342\bin\Debug\net6.0\_1342.pdb
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.csproj.AssemblyReference.cache
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.AssemblyInfoInputs.cache
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.AssemblyInfo.cs
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.dll
+G:\Programming-Skill\_1342\obj\Debug\net6.0\refint\_1342.dll
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.pdb
+G:\Programming-Skill\_1342\obj\Debug\net6.0\_1342.genruntimeconfig.cache
+G:\Programming-Skill\_1342\obj\Debug\net6.0\ref\_1342.dll
