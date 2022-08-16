@@ -1,0 +1,15 @@
+G:\Programming-Skill\_383\bin\Debug\net6.0\_383.exe
+G:\Programming-Skill\_383\bin\Debug\net6.0\_383.deps.json
+G:\Programming-Skill\_383\bin\Debug\net6.0\_383.runtimeconfig.json
+G:\Programming-Skill\_383\bin\Debug\net6.0\_383.dll
+G:\Programming-Skill\_383\bin\Debug\net6.0\_383.pdb
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.csproj.AssemblyReference.cache
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.AssemblyInfoInputs.cache
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.AssemblyInfo.cs
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.dll
+G:\Programming-Skill\_383\obj\Debug\net6.0\refint\_383.dll
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.pdb
+G:\Programming-Skill\_383\obj\Debug\net6.0\_383.genruntimeconfig.cache
+G:\Programming-Skill\_383\obj\Debug\net6.0\ref\_383.dll
