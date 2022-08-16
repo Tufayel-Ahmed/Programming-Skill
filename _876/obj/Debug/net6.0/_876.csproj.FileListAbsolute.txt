@@ -1,0 +1,15 @@
+G:\Programming-Skill\_876\bin\Debug\net6.0\_876.exe
+G:\Programming-Skill\_876\bin\Debug\net6.0\_876.deps.json
+G:\Programming-Skill\_876\bin\Debug\net6.0\_876.runtimeconfig.json
+G:\Programming-Skill\_876\bin\Debug\net6.0\_876.dll
+G:\Programming-Skill\_876\bin\Debug\net6.0\_876.pdb
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.csproj.AssemblyReference.cache
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.AssemblyInfoInputs.cache
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.AssemblyInfo.cs
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.dll
+G:\Programming-Skill\_876\obj\Debug\net6.0\refint\_876.dll
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.pdb
+G:\Programming-Skill\_876\obj\Debug\net6.0\_876.genruntimeconfig.cache
+G:\Programming-Skill\_876\obj\Debug\net6.0\ref\_876.dll
