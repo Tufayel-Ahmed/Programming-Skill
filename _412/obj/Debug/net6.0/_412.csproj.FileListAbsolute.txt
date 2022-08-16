@@ -1,0 +1,15 @@
+G:\Programming-Skill\_412\bin\Debug\net6.0\_412.exe
+G:\Programming-Skill\_412\bin\Debug\net6.0\_412.deps.json
+G:\Programming-Skill\_412\bin\Debug\net6.0\_412.runtimeconfig.json
+G:\Programming-Skill\_412\bin\Debug\net6.0\_412.dll
+G:\Programming-Skill\_412\bin\Debug\net6.0\_412.pdb
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.csproj.AssemblyReference.cache
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.AssemblyInfoInputs.cache
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.AssemblyInfo.cs
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.dll
+G:\Programming-Skill\_412\obj\Debug\net6.0\refint\_412.dll
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.pdb
+G:\Programming-Skill\_412\obj\Debug\net6.0\_412.genruntimeconfig.cache
+G:\Programming-Skill\_412\obj\Debug\net6.0\ref\_412.dll
