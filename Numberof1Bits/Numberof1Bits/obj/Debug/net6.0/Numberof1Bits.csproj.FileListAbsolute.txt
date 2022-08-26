@@ -1,0 +1,15 @@
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\bin\Debug\net6.0\Numberof1Bits.exe
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\bin\Debug\net6.0\Numberof1Bits.deps.json
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\bin\Debug\net6.0\Numberof1Bits.runtimeconfig.json
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\bin\Debug\net6.0\Numberof1Bits.dll
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\bin\Debug\net6.0\Numberof1Bits.pdb
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.csproj.AssemblyReference.cache
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.AssemblyInfoInputs.cache
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.AssemblyInfo.cs
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.dll
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\refint\Numberof1Bits.dll
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.pdb
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\Numberof1Bits.genruntimeconfig.cache
+G:\Programming-Skill\Numberof1Bits\Numberof1Bits\obj\Debug\net6.0\ref\Numberof1Bits.dll
