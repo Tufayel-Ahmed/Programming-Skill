@@ -1,0 +1,15 @@
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\bin\Debug\net6.0\LargestPerimeterTriangle.exe
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\bin\Debug\net6.0\LargestPerimeterTriangle.deps.json
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\bin\Debug\net6.0\LargestPerimeterTriangle.runtimeconfig.json
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\bin\Debug\net6.0\LargestPerimeterTriangle.dll
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\bin\Debug\net6.0\LargestPerimeterTriangle.pdb
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.csproj.AssemblyReference.cache
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.AssemblyInfoInputs.cache
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.AssemblyInfo.cs
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.dll
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\refint\LargestPerimeterTriangle.dll
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.pdb
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\LargestPerimeterTriangle.genruntimeconfig.cache
+G:\Programming-Skill\LargestPerimeterTriangle\LargestPerimeterTriangle\obj\Debug\net6.0\ref\LargestPerimeterTriangle.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestPerimeterTriangle", "LargestPerimeterTriangle\LargestPerimeterTriangle.csproj", "{5405D3A4-7EB6-4638-B8E7-2E45785E9AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5405D3A4-7EB6-4638-B8E7-2E45785E9AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5405D3A4-7EB6-4638-B8E7-2E45785E9AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5405D3A4-7EB6-4638-B8E7-2E45785E9AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5405D3A4-7EB6-4638-B8E7-2E45785E9AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {088C3145-B0EE-4C14-94B0-B60A2B097699}
+	EndGlobalSection
+EndGlobal
