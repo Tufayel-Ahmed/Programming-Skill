@@ -1,0 +1,14 @@
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\bin\Debug\netcoreapp3.1\Find All Substrings of a Given String.exe
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\bin\Debug\netcoreapp3.1\Find All Substrings of a Given String.deps.json
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\bin\Debug\netcoreapp3.1\Find All Substrings of a Given String.runtimeconfig.json
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\bin\Debug\netcoreapp3.1\Find All Substrings of a Given String.runtimeconfig.dev.json
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\bin\Debug\netcoreapp3.1\Find All Substrings of a Given String.dll
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\bin\Debug\netcoreapp3.1\Find All Substrings of a Given String.pdb
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.csproj.AssemblyReference.cache
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.AssemblyInfoInputs.cache
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.AssemblyInfo.cs
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.dll
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.pdb
+G:\Programming-Skill\Find All Substrings of a Given String\Find All Substrings of a Given String\obj\Debug\netcoreapp3.1\Find All Substrings of a Given String.genruntimeconfig.cache
