@@ -1,0 +1,14 @@
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\bin\Debug\netcoreapp3.1\Factorial of a Number.exe
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\bin\Debug\netcoreapp3.1\Factorial of a Number.deps.json
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\bin\Debug\netcoreapp3.1\Factorial of a Number.runtimeconfig.json
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\bin\Debug\netcoreapp3.1\Factorial of a Number.runtimeconfig.dev.json
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\bin\Debug\netcoreapp3.1\Factorial of a Number.dll
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\bin\Debug\netcoreapp3.1\Factorial of a Number.pdb
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.csproj.AssemblyReference.cache
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.AssemblyInfoInputs.cache
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.AssemblyInfo.cs
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.dll
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.pdb
+G:\Programming-Skill\Factorial of a Number\Factorial of a Number\obj\Debug\netcoreapp3.1\Factorial of a Number.genruntimeconfig.cache
