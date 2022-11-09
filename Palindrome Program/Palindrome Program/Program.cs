@@ -14,7 +14,7 @@ namespace Palindrome_Program
             int num = number;
             int reminder;
             int reverseNumber = 0;
-            for(int i = 0; i < number; i++)
+            while(number > 0)
             {
                 reminder = number % 10;
                 reverseNumber = (reverseNumber * 10) + reminder;

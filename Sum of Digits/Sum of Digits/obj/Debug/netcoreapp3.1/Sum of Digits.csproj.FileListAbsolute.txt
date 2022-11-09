@@ -1,0 +1,14 @@
+G:\Programming-Skill\Sum of Digits\Sum of Digits\bin\Debug\netcoreapp3.1\Sum of Digits.exe
+G:\Programming-Skill\Sum of Digits\Sum of Digits\bin\Debug\netcoreapp3.1\Sum of Digits.deps.json
+G:\Programming-Skill\Sum of Digits\Sum of Digits\bin\Debug\netcoreapp3.1\Sum of Digits.runtimeconfig.json
+G:\Programming-Skill\Sum of Digits\Sum of Digits\bin\Debug\netcoreapp3.1\Sum of Digits.runtimeconfig.dev.json
+G:\Programming-Skill\Sum of Digits\Sum of Digits\bin\Debug\netcoreapp3.1\Sum of Digits.dll
+G:\Programming-Skill\Sum of Digits\Sum of Digits\bin\Debug\netcoreapp3.1\Sum of Digits.pdb
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.csproj.AssemblyReference.cache
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.AssemblyInfoInputs.cache
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.AssemblyInfo.cs
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.dll
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.pdb
+G:\Programming-Skill\Sum of Digits\Sum of Digits\obj\Debug\netcoreapp3.1\Sum of Digits.genruntimeconfig.cache
