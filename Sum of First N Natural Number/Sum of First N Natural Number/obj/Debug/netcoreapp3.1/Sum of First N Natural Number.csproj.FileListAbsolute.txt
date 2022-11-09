@@ -1,0 +1,14 @@
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\bin\Debug\netcoreapp3.1\Sum of First N Natural Number.exe
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\bin\Debug\netcoreapp3.1\Sum of First N Natural Number.deps.json
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\bin\Debug\netcoreapp3.1\Sum of First N Natural Number.runtimeconfig.json
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\bin\Debug\netcoreapp3.1\Sum of First N Natural Number.runtimeconfig.dev.json
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\bin\Debug\netcoreapp3.1\Sum of First N Natural Number.dll
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\bin\Debug\netcoreapp3.1\Sum of First N Natural Number.pdb
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.csproj.AssemblyReference.cache
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.AssemblyInfoInputs.cache
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.AssemblyInfo.cs
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.dll
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.pdb
+G:\Programming-Skill\Sum of First N Natural Number\Sum of First N Natural Number\obj\Debug\netcoreapp3.1\Sum of First N Natural Number.genruntimeconfig.cache
