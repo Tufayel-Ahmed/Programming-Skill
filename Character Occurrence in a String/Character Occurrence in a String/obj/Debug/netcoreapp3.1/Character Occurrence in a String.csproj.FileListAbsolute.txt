@@ -1,0 +1,14 @@
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\bin\Debug\netcoreapp3.1\Character Occurrence in a String.exe
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\bin\Debug\netcoreapp3.1\Character Occurrence in a String.deps.json
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\bin\Debug\netcoreapp3.1\Character Occurrence in a String.runtimeconfig.json
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\bin\Debug\netcoreapp3.1\Character Occurrence in a String.runtimeconfig.dev.json
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\bin\Debug\netcoreapp3.1\Character Occurrence in a String.dll
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\bin\Debug\netcoreapp3.1\Character Occurrence in a String.pdb
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.csproj.AssemblyReference.cache
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.AssemblyInfoInputs.cache
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.AssemblyInfo.cs
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.dll
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.pdb
+G:\Programming-Skill\Character Occurrence in a String\Character Occurrence in a String\obj\Debug\netcoreapp3.1\Character Occurrence in a String.genruntimeconfig.cache
