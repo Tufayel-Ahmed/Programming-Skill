@@ -1,0 +1,14 @@
+G:\Programming-Skill\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.exe
+G:\Programming-Skill\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.deps.json
+G:\Programming-Skill\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.runtimeconfig.json
+G:\Programming-Skill\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.runtimeconfig.dev.json
+G:\Programming-Skill\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.dll
+G:\Programming-Skill\Watermelon\Watermelon\bin\Debug\netcoreapp3.1\Watermelon.pdb
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.csproj.AssemblyReference.cache
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.AssemblyInfoInputs.cache
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.AssemblyInfo.cs
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.dll
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.pdb
+G:\Programming-Skill\Watermelon\Watermelon\obj\Debug\netcoreapp3.1\Watermelon.genruntimeconfig.cache

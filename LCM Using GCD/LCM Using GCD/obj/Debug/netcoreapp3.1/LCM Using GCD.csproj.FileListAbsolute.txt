@@ -1,0 +1,14 @@
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\bin\Debug\netcoreapp3.1\LCM Using GCD.exe
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\bin\Debug\netcoreapp3.1\LCM Using GCD.deps.json
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\bin\Debug\netcoreapp3.1\LCM Using GCD.runtimeconfig.json
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\bin\Debug\netcoreapp3.1\LCM Using GCD.runtimeconfig.dev.json
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\bin\Debug\netcoreapp3.1\LCM Using GCD.dll
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\bin\Debug\netcoreapp3.1\LCM Using GCD.pdb
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.csproj.AssemblyReference.cache
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.AssemblyInfoInputs.cache
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.AssemblyInfo.cs
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.dll
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.pdb
+G:\Programming-Skill\LCM Using GCD\LCM Using GCD\obj\Debug\netcoreapp3.1\LCM Using GCD.genruntimeconfig.cache

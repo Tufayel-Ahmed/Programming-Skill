@@ -1,0 +1,14 @@
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\bin\Debug\netcoreapp3.1\GCD Euclidean Algorithm.exe
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\bin\Debug\netcoreapp3.1\GCD Euclidean Algorithm.deps.json
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\bin\Debug\netcoreapp3.1\GCD Euclidean Algorithm.runtimeconfig.json
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\bin\Debug\netcoreapp3.1\GCD Euclidean Algorithm.runtimeconfig.dev.json
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\bin\Debug\netcoreapp3.1\GCD Euclidean Algorithm.dll
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\bin\Debug\netcoreapp3.1\GCD Euclidean Algorithm.pdb
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.csproj.AssemblyReference.cache
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.AssemblyInfoInputs.cache
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.AssemblyInfo.cs
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.dll
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.pdb
+G:\Programming-Skill\GCD Euclidean Algorithm\GCD Euclidean Algorithm\obj\Debug\netcoreapp3.1\GCD Euclidean Algorithm.genruntimeconfig.cache

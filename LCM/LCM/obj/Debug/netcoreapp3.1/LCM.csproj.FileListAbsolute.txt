@@ -1,0 +1,14 @@
+G:\Programming-Skill\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.exe
+G:\Programming-Skill\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.deps.json
+G:\Programming-Skill\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.runtimeconfig.json
+G:\Programming-Skill\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.runtimeconfig.dev.json
+G:\Programming-Skill\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.dll
+G:\Programming-Skill\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.pdb
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.csproj.AssemblyReference.cache
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.AssemblyInfoInputs.cache
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.AssemblyInfo.cs
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.dll
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.pdb
+G:\Programming-Skill\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.genruntimeconfig.cache

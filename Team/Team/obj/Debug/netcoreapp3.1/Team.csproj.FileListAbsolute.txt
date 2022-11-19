@@ -1,0 +1,14 @@
+G:\Programming-Skill\Team\Team\bin\Debug\netcoreapp3.1\Team.exe
+G:\Programming-Skill\Team\Team\bin\Debug\netcoreapp3.1\Team.deps.json
+G:\Programming-Skill\Team\Team\bin\Debug\netcoreapp3.1\Team.runtimeconfig.json
+G:\Programming-Skill\Team\Team\bin\Debug\netcoreapp3.1\Team.runtimeconfig.dev.json
+G:\Programming-Skill\Team\Team\bin\Debug\netcoreapp3.1\Team.dll
+G:\Programming-Skill\Team\Team\bin\Debug\netcoreapp3.1\Team.pdb
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.csproj.AssemblyReference.cache
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.AssemblyInfoInputs.cache
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.AssemblyInfo.cs
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.dll
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.pdb
+G:\Programming-Skill\Team\Team\obj\Debug\netcoreapp3.1\Team.genruntimeconfig.cache

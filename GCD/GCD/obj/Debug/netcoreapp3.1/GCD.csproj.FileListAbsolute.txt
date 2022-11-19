@@ -1,0 +1,14 @@
+G:\Programming-Skill\GCD\GCD\bin\Debug\netcoreapp3.1\GCD.exe
+G:\Programming-Skill\GCD\GCD\bin\Debug\netcoreapp3.1\GCD.deps.json
+G:\Programming-Skill\GCD\GCD\bin\Debug\netcoreapp3.1\GCD.runtimeconfig.json
+G:\Programming-Skill\GCD\GCD\bin\Debug\netcoreapp3.1\GCD.runtimeconfig.dev.json
+G:\Programming-Skill\GCD\GCD\bin\Debug\netcoreapp3.1\GCD.dll
+G:\Programming-Skill\GCD\GCD\bin\Debug\netcoreapp3.1\GCD.pdb
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.csproj.AssemblyReference.cache
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.AssemblyInfoInputs.cache
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.AssemblyInfo.cs
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.csproj.CoreCompileInputs.cache
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.dll
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.pdb
+G:\Programming-Skill\GCD\GCD\obj\Debug\netcoreapp3.1\GCD.genruntimeconfig.cache
